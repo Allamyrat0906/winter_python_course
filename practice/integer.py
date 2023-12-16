@@ -74,7 +74,14 @@
 # print("Today:", today)
 
 
-week=["Sunday","Monday", "Thusday","Wednesday","Thursday","Friday","Saturday"]
-k=int(input("enter number of days: "))
-today=k%7
-print("Today: ", week[today])
+# week=["Sunday","Monday", "Thusday","Wednesday","Thursday","Friday","Saturday"]
+# k=int(input("enter number of days: "))
+# today=k%7
+# print("Today: ", week[today])
+
+
+# week=["Sunday","Monday", "Thusday","Wednesday","Thusday","Friday","Saturday"]
+# K=int(input("enter number of days: "))
+# today=(K+3)%7
+
+# print("Today: ", week[today])
