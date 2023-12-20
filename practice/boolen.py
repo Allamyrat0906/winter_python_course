@@ -35,10 +35,18 @@
 # print("result: ",result)
 
 
-a=int(input("enter a number: "))
-b=int(input("enter b number: "))
-c=int(input("enter c number: "))
-result=(a==abs(b) or c==abs(a) or b==abs(c))
+# a=int(input("enter a number: "))
+# b=int(input("enter b number: "))
+# c=int(input("enter c number: "))
+# result=(a==abs(b) or c==abs(a) or b==abs(c))
+# print("result: ",result)
+
+
+
+x1=int(input("enter x1 cordinates: "))
+y1=int(input("enter y1 cordinates: "))
+x2=int(input("enter x2 cordinates: "))
+y2=int(input("enter y2 cordinates: "))
+
+result=(x1==x2 or y1==y2)
 print("result: ",result)
-
-
