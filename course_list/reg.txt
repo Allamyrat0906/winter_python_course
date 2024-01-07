@@ -1,0 +1,2 @@
+Registration ID: 1	  |User Name: Allamyrat	  |Course Name: Python	   |Course Duration: 4 month	   |Course Price: 4500 TMT	   |Phone Number: +99362467943
+Registration ID: 2	  |User Name: Davut	  |Course Name: Python	   |Course Duration:  month	   |Course Price: 4500 TMT	   |Phone Number: +99362467943
